@@ -1,5 +1,7 @@
 # micro-state-management
 
+![image](https://user-images.githubusercontent.com/23524849/232463462-82a34a40-8d99-42e2-a05c-2cb6fa37db70.png)
+
 > 스토어는 드러그스토어 밖에 모르는데요
 
 ## 진행
