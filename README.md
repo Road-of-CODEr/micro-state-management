@@ -4,6 +4,8 @@
 
 > 스토어는 드러그스토어 밖에 모르는데요
 
+- [공식 레포](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks)
+
 ## 진행
 
 - 기간:
